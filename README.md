@@ -1,6 +1,6 @@
 # Privacy Policy for Virtue_VR
 
-Effective Date: [Insert Date]
+Effective Date: December 31, 2025
 
 Exathought ("we", "our", "us") values your privacy. This Privacy Policy explains how we handle information when you use the Virtue_VR application.
 
@@ -24,12 +24,12 @@ Exathought ("we", "our", "us") values your privacy. This Privacy Policy explains
 - We use industry-standard security practices to protect your information.
 
 ## User Rights
-- You may request deletion of your training data by contacting us at: [insert support email].
+- You may request deletion of your training data by contacting us at: nithish.kumar@exathought.com.
 - You can stop using the app at any time, which will prevent any further data collection.
 
 ## Contact Us
 If you have questions about this Privacy Policy, please contact us at:  
-📧 support@exathought.com  
+📧 nithish.kumar@exathought.com
 
 ---
 
